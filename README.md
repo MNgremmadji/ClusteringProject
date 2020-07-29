@@ -1,2 +1,1 @@
-# ClusteringProject
-Le but de ce TP est segmenter le territoire français en fonction des mesures de temperatures et des mesures de vents. Nous allons utilisé des methodes de clustering afin d'obtenir la meilleure segmentation possible. Un des objectif supplementaire est de faire la segmentation en fonction de la mesure du vent et la temperature en même temps.
+When I did internship in image processing, I worked about image restoration. I used variational approach. The folder named Internship holds all code and research paper I used. The folder Certification contains all code I made When I followed Udemy certification about image processing. The last folder named Lab contains All Lab I realised in image processing, as well as at Université Paris 6 than my personal work. 
